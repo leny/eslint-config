@@ -20,5 +20,17 @@ module.exports = {
 
 > cf. the official ESLint documentation [page about shareable configs](https://eslint.org/docs/developer-guide/shareable-configs#using-a-shareable-config).
 
+### NOTE
+
+This module only contains the eslint config. You need to be sure to also install the following **dev dependencies** in your project:
+
+- `@babel/eslint-parser`
+- `eslint`
+- `eslint-plugin-prettier`
+- `eslint-plugin-react`
+- `eslint-plugin-react-hooks`
+- `eslint-plugin-unicorn`
+- `prettier`
+  
 * * *
 February 2021, [leny](https://github.com/leny)
