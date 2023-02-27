@@ -31,6 +31,8 @@ This module only contains the eslint config. You need to be sure to also install
 - `eslint-plugin-react-hooks`
 - `eslint-plugin-unicorn`
 - `prettier`
-  
+- `@typescript-eslint/eslint-plugin`
+- `@typescript-eslint/parser`
+
 * * *
 February 2021, [leny](https://github.com/leny)
